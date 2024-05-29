@@ -13,7 +13,4 @@ Skills: Overview of the technologies and skills I possess.<br>
 Works: Showcase of my projects with descriptions and links to repositories or live demos.<br>
 Contact: A form for visitors to reach out to me for inquiries, collaborations, or job opportunities.<br>
 
-Licenses
-------------------------------------------------------------------------------------------------------------------------------------
-GNU
-Thank You 
+Thank You!
